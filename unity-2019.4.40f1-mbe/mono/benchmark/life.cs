@@ -70,5 +70,5 @@ static void generate() {
 static void dump() {
 	;
 }
-}
+}
 
